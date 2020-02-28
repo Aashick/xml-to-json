@@ -1,0 +1,27 @@
+{
+  "name": "xmltojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.1",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "js2xmlparser": "^4.0.1",
+    "xml-to-json-stream": "^1.1.0"
+  },
+  "engines": {
+    "ndoe": "12.16.1"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
