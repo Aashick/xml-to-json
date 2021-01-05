@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^3.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "js2xmlparser": "^4.0.1",
     "xml-to-json-stream": "^1.1.0"
